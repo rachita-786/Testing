@@ -6,7 +6,15 @@ This is sample test that how i can show static pages on public github url
         NOW WE HAVE TO DO SOME CHANGES ON GITHUB 
         4. open the repository
         settings>left side in options select pages >Under Build and Deployment>Branch >select main>save> refresh the page
+           
+           Build and deployment
+                 Source  DEPLOY FROM BRANCH
+           Branch
+               main >save
+        
+           
         5. Scroll up under Github pages one url is mentioned open it
+        Your site is live at https://rachita-786.github.io/Testing/
         for eg : 
         url mentioned  
          url https://rachita-786.github.io/Testing/ 
